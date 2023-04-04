@@ -1,4 +1,4 @@
-## Hi! I'am Bruno Goulart! 
+## Hi! I'am Bruno Goulart! enthusiast for DevOps culture and design patterns. Always learning!  
 
 # About me
 👨‍💻 I'm a back end developer, studying to become a full stack developer; <br>
