@@ -1,7 +1,9 @@
-## Hi! I'am Bruno Goulart, computer science student and software developer!
+## Hi! I'am Bruno Goulart! 
 
 # About me
-👨‍💻 I'm studying to become a FullStack developer. <br>
+👨‍💻 I'm a back end developer, studying to become a full stack developer; <br>
+📚 Currently studying Computer Science at the State University of Mato Grosso; <br>
+
 
 # Techs
 
