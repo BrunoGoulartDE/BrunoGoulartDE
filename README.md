@@ -1,7 +1,7 @@
 ## Hi! I'm Bruno Goulart! Enthusiast for DevOps culture and design patterns. Always learning!
 
 # About me
-👨‍💻 I'm a back end developer, studying to become a full stack developer; <br>
+👨‍💻 I'm a Full Stack developer!!! <br>
 📚 Currently studying Computer Science at the State University of Mato Grosso; <br>
 
 # Techs
