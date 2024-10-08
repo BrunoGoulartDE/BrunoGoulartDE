@@ -22,7 +22,8 @@ Here it is some technologies and languages i've been studying. <br> <br>
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
  <br>
  
- ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white) <br>
+ ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)  ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+<br>
  <br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoGoulartDE)](https://github.com/anuraghazra/github-readme-stats)
  <br>
