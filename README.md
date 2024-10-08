@@ -8,6 +8,8 @@
 # Techs
 
 Here it is some technologies and languages i've been studying. <br> <br>
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![DotNet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+
 ![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge) ![Laravel](https://img.shields.io/badge/LARAVEL-orange?style=for-the-badge) <br>
 
 ![Javascript](https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)  ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge) <br>
