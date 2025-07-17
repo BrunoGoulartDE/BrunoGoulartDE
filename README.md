@@ -25,9 +25,6 @@ Here are some technologies and languages I've been studying.
 
 ### Package Managers
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoGoulartDE)](https://github.com/anuraghazra/github-readme-stats)
-
 <br>
 
 # Get in touch
